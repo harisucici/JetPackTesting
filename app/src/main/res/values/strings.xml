@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetPackTesting</string>
+    <string name="textview1">A</string>
+    <string name="textview">B</string>
+</resources>
